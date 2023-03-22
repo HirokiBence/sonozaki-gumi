@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName  "Restricted Page"
+Require valid-user
+AuthUserFile  /home/c7833989/.htpasswds/bence-webcreate.com/sonozaki-gumi/.htpasswd
